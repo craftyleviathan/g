@@ -1,0 +1,1306 @@
+[2021-01-09 16:37:57] Started 1.1.7113.30815
+[2021-01-09 16:37:57] Config.json saved
+[2021-01-09 16:37:57] en-US.json loaded
+[2021-01-09 16:37:57] en-US.json saved
+[2021-01-09 16:37:57] MonsterData.json loaded
+[2021-01-09 16:37:57] MonsterData.json saved
+[2021-01-09 16:37:57] PlayerData.json loaded
+[2021-01-09 16:37:57] PlayerData.json saved
+[2021-01-09 16:37:57] Memory.json loaded
+[2021-01-09 16:37:57] Memory.json saved
+[2021-01-09 16:37:57] Default.xaml loaded
+[2021-01-09 16:37:58] State Machine: None (84 ms) > WaitingForProcess
+[2021-01-09 16:37:58] State Machine: WaitingForProcess (76 ms) > ProcessFound
+[2021-01-09 16:37:58] Attached to MONSTER HUNTER: WORLD(421470)
+[2021-01-09 16:37:58] State Machine: ProcessFound (65 ms) > PatternScanning
+[2021-01-09 16:37:58] State Machine: PatternScanning (244 ms) > PatternScanFailed
+[2021-01-09 16:37:58] Failed Patterns:
+48 8B 0D ?? ?? ?? ?? 48 8D 54 24 38 C6 44 24 20 00 4D 8B 40 08 E8 ?? ?? ?? ?? 48 8B 5C 24 60 48 83 C4 50 5F C3
+48 8B 05 ?? ?? ?? ?? 41 8B 94 00 ?? ?? ?? ?? 89 51 ??
+[2021-01-09 17:04:38] Ended
+[2021-01-09 17:07:55] Started 2021.1.6.0
+[2021-01-09 17:07:55] Config.json loaded
+[2021-01-09 17:07:55] Versions.json saved
+[2021-01-09 17:07:55] en-US.json loaded
+[2021-01-09 17:07:55] MonsterData.json loaded
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[0].Source', line 10, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[1].Source', line 19, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[2].Source', line 28, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[3].Source', line 37, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[4].Source', line 46, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[5].Source', line 55, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[6].Source', line 64, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[7].Source', line 73, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[8].Source', line 82, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[9].Source', line 91, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[10].Source', line 100, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[11].Source', line 109, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[12].Source', line 118, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[13].Source', line 127, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[14].Source', line 136, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[15].Source', line 145, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[16].Source', line 154, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[17].Source', line 163, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[18].Source', line 172, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[19].Source', line 181, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[20].Source', line 190, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[21].Source', line 199, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[22].Source', line 208, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[23].Source', line 217, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[24].Source', line 226, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[25].Source', line 235, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[26].Source', line 244, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[27].Source', line 253, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[28].Source', line 262, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[29].Source', line 271, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[30].Source', line 280, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[31].Source', line 289, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[32].Source', line 298, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[33].Source', line 307, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[34].Source', line 316, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[35].Source', line 325, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[36].Source', line 334, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[37].Source', line 343, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[38].Source', line 352, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[39].Source', line 361, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[40].Source', line 370, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[41].Source', line 379, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[42].Source', line 388, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[43].Source', line 397, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[44].Source', line 406, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[45].Source', line 415, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[46].Source', line 424, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[47].Source', line 433, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[48].Source', line 442, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[49].Source', line 451, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[50].Source', line 460, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[51].Source', line 469, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[52].Source', line 478, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:55] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[53].Source', line 487, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[54].Source', line 496, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[55].Source', line 505, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[56].Source', line 514, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[57].Source', line 522, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[58].Source', line 530, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[59].Source', line 538, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[60].Source', line 546, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[61].Source', line 554, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[62].Source', line 562, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[63].Source', line 570, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[64].Source', line 578, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[65].Source', line 586, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[66].Source', line 594, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[67].Source', line 602, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[68].Source', line 610, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[69].Source', line 618, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[70].Source', line 626, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[71].Source', line 634, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[72].Source', line 642, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[73].Source', line 650, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[74].Source', line 666, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[75].Source', line 682, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[76].Source', line 698, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[77].Source', line 714, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[78].Source', line 722, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[79].Source', line 729, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[80].Source', line 744, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[81].Source', line 759, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[82].Source', line 774, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[83].Source', line 790, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[84].Source', line 798, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Base" to type 'System.UInt32'. Path 'StatusEffects[85].Source', line 806, position 22.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[86].Source', line 815, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[87].Source', line 824, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[88].Source', line 833, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[89].Source', line 842, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[90].Source', line 851, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[91].Source', line 860, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[92].Source', line 869, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[93].Source', line 878, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[94].Source', line 887, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[95].Source', line 896, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[96].Source', line 905, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[97].Source', line 914, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[98].Source', line 923, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[99].Source', line 932, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[100].Source', line 941, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[101].Source', line 950, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[102].Source', line 959, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Equipment" to type 'System.UInt32'. Path 'StatusEffects[103].Source', line 968, position 27.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Weapon" to type 'System.UInt32'. Path 'StatusEffects[104].Source', line 977, position 24.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Weapon" to type 'System.UInt32'. Path 'StatusEffects[105].Source', line 996, position 24.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Weapon" to type 'System.UInt32'. Path 'StatusEffects[106].Source', line 1015, position 24.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Weapon" to type 'System.UInt32'. Path 'StatusEffects[107].Source', line 1034, position 24.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Weapon" to type 'System.UInt32'. Path 'StatusEffects[108].Source', line 1053, position 24.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Weapon" to type 'System.UInt32'. Path 'StatusEffects[109].Source', line 1072, position 24.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Weapon" to type 'System.UInt32'. Path 'StatusEffects[110].Source', line 1091, position 24.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Weapon" to type 'System.UInt32'. Path 'StatusEffects[111].Source', line 1110, position 24.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] JsonSerializationException: Error converting value "Weapon" to type 'System.UInt32'. Path 'StatusEffects[112].Source', line 1128, position 24.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ResolvePropertyAndCreatorValues(JsonObjectContract contract, JsonProperty containerProperty, JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObjectUsingCreatorWithParameters(JsonReader reader, JsonObjectContract contract, JsonProperty containerProperty, ObjectConstructor`1 creator, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+[2021-01-09 17:07:56] PlayerData.json loaded
+[2021-01-09 17:07:56] Memory.json loaded
+[2021-01-09 17:07:56] Default.xaml loaded
+[2021-01-09 17:07:56] State Machine: None (62 ms) > CheckingForUpdates
+[2021-01-09 17:07:57] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-09 17:07:57] Found a new version of 'Memory.json'
+[2021-01-09 17:07:57] Found a new version of 'PlayerData.json'
+[2021-01-09 17:07:58] Found a new version of 'MonsterData.json'
+[2021-01-09 17:07:58] Found a new version of 'en-US.json'
+[2021-01-09 17:07:58] Found a new version of 'Default.xaml'
+[2021-01-09 17:07:58] Found a new version of 'SmartHunter.exe'
+[2021-01-09 17:07:59] State Machine: CheckingForUpdates (2035 ms) > DownloadingUpdates
+[2021-01-09 17:07:59] Starting to download Updates!
+[2021-01-09 17:07:59] Deleting file 'Memory.json'
+[2021-01-09 17:07:59] Versions.json saved
+[2021-01-09 17:07:59] Deleting file 'PlayerData.json'
+[2021-01-09 17:07:59] Versions.json saved
+[2021-01-09 17:08:00] Deleting file 'MonsterData.json'
+[2021-01-09 17:08:00] Versions.json saved
+[2021-01-09 17:08:00] Deleting file 'en-US.json'
+[2021-01-09 17:08:00] Versions.json saved
+[2021-01-09 17:08:00] Downloading file 'Default.xaml'
+[2021-01-09 17:08:01] Versions.json saved
+[2021-01-09 17:08:01] Downloading file 'SmartHunter.exe'
+[2021-01-09 17:08:02] Versions.json saved
+[2021-01-09 17:08:02] State Machine: DownloadingUpdates (3710 ms) > Restarting
+[2021-01-09 17:08:03] Successfully downloaded all files!
+[2021-01-09 17:08:03] Default.xaml loaded
+[2021-01-09 17:08:03] State Machine: Restarting (311 ms) > Restarting
+[2021-01-09 17:08:03] Restarting Application!
+[2021-01-09 17:08:03] Started 2021.1.6.0
+[2021-01-09 17:08:04] Config.json loaded
+[2021-01-09 17:08:04] Versions.json loaded
+[2021-01-09 17:08:04] en-US.json saved
+[2021-01-09 17:08:04] MonsterData.json saved
+[2021-01-09 17:08:04] PlayerData.json saved
+[2021-01-09 17:08:04] Memory.json saved
+[2021-01-09 17:08:04] Default.xaml loaded
+[2021-01-09 17:08:04] State Machine: None (61 ms) > CheckingForUpdates
+[2021-01-09 17:08:04] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-09 17:08:05] State Machine: CheckingForUpdates (483 ms) > StartMHW
+[2021-01-09 17:08:05] State Machine: StartMHW (53 ms) > WaitingForProcess
+[2021-01-09 17:08:05] State Machine: WaitingForProcess (81 ms) > ProcessFound
+[2021-01-09 17:08:05] State Machine: ProcessFound (62 ms) > FastPatternScanning
+[2021-01-09 17:08:05] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-09 17:08:05] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-09 17:08:05] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-09 17:08:05] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-09 17:08:05] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-09 17:08:05] State Machine: FastPatternScanning (56 ms) > PatternScanning
+[2021-01-09 17:08:05] State Machine: PatternScanning (52 ms) > Working
+[2021-01-09 17:08:05] Match Range: 14024AB49 - 1422455C1
+[2021-01-09 17:08:14] Config.json saved
+[2021-01-09 17:08:15] Config.json saved
+[2021-01-09 17:26:11] Config.json saved
+[2021-01-09 17:26:12] Config.json saved
+[2021-01-09 17:26:16] Config.json saved
+[2021-01-09 17:36:54] Config.json saved
+[2021-01-09 17:36:56] Config.json saved
+[2021-01-09 17:36:57] Config.json saved
+[2021-01-09 17:36:59] Config.json saved
+[2021-01-09 17:40:46] Config.json saved
+[2021-01-09 17:46:48] Config.json saved
+[2021-01-09 17:46:55] Config.json saved
+[2021-01-09 17:46:59] Config.json saved
+[2021-01-09 17:47:08] Config.json saved
+[2021-01-09 17:52:56] Config.json saved
+[2021-01-09 17:53:02] Config.json saved
+[2021-01-09 17:53:04] Config.json saved
+[2021-01-09 17:53:10] Config.json saved
+[2021-01-09 17:53:13] Config.json saved
+[2021-01-09 17:53:16] Config.json saved
+[2021-01-09 17:53:24] Config.json saved
+[2021-01-09 17:53:37] Config.json saved
+[2021-01-09 17:53:54] Config.json saved
+[2021-01-09 17:53:55] Config.json saved
+[2021-01-09 17:54:03] Config.json saved
+[2021-01-09 17:54:03] Config.json saved
+[2021-01-09 17:54:06] Config.json saved
+[2021-01-09 17:57:14] Config.json saved
+[2021-01-09 17:57:15] Config.json saved
+[2021-01-09 17:57:18] Config.json saved
+[2021-01-09 17:57:20] Config.json saved
+[2021-01-09 18:00:27] Config.json saved
+[2021-01-09 18:00:33] Config.json saved
+[2021-01-09 18:00:34] Config.json saved
+[2021-01-09 18:00:36] Config.json saved
+[2021-01-09 18:00:37] Config.json saved
+[2021-01-09 18:06:06] Config.json saved
+[2021-01-09 18:11:35] Config.json saved
+[2021-01-09 18:31:52] Config.json saved
+[2021-01-09 19:07:33] Config.json saved
+[2021-01-09 20:02:31] Config.json saved
+[2021-01-09 20:02:31] Config.json saved
+[2021-01-09 20:02:35] Config.json saved
+[2021-01-09 22:10:33] Config.json saved
+[2021-01-09 22:18:55] Config.json saved
+[2021-01-10 00:28:09] Config.json saved
+[2021-01-10 00:38:45] Ended
+[2021-01-10 03:11:20] Started 2021.1.6.0
+[2021-01-10 03:11:20] Config.json loaded
+[2021-01-10 03:11:20] Versions.json loaded
+[2021-01-10 03:11:20] en-US.json loaded
+[2021-01-10 03:11:20] MonsterData.json loaded
+[2021-01-10 03:11:20] PlayerData.json loaded
+[2021-01-10 03:11:20] Memory.json loaded
+[2021-01-10 03:11:20] Default.xaml loaded
+[2021-01-10 03:11:21] State Machine: None (65 ms) > CheckingForUpdates
+[2021-01-10 03:11:21] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-10 03:11:23] State Machine: CheckingForUpdates (2080 ms) > StartMHW
+[2021-01-10 03:11:23] State Machine: StartMHW (64 ms) > WaitingForProcess
+[2021-01-10 03:11:23] State Machine: WaitingForProcess (68 ms) > ProcessFound
+[2021-01-10 03:11:23] State Machine: ProcessFound (53 ms) > FastPatternScanning
+[2021-01-10 03:11:23] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-10 03:11:23] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-10 03:11:23] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-10 03:11:23] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-10 03:11:23] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-10 03:11:23] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-10 03:11:23] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-10 03:11:23] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-10 03:11:23] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-10 03:11:23] State Machine: FastPatternScanning (128 ms) > PatternScanning
+[2021-01-10 03:11:23] State Machine: PatternScanning (52 ms) > Working
+[2021-01-10 03:11:24] Match Range: 14024AB49 - 1422455C1
+[2021-01-10 08:25:10] Config.json saved
+[2021-01-10 09:58:59] State Machine: Working (24455483 ms) > WaitingForProcess
+[2021-01-10 09:59:05] Ended
+[2021-01-10 18:20:26] Started 2021.1.6.0
+[2021-01-10 18:20:27] Config.json loaded
+[2021-01-10 18:20:27] Versions.json loaded
+[2021-01-10 18:20:27] en-US.json loaded
+[2021-01-10 18:20:27] MonsterData.json loaded
+[2021-01-10 18:20:27] PlayerData.json loaded
+[2021-01-10 18:20:27] Memory.json loaded
+[2021-01-10 18:20:27] Default.xaml loaded
+[2021-01-10 18:20:27] State Machine: None (55 ms) > CheckingForUpdates
+[2021-01-10 18:20:27] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-10 18:20:29] State Machine: CheckingForUpdates (1927 ms) > StartMHW
+[2021-01-10 18:20:29] State Machine: StartMHW (65 ms) > WaitingForProcess
+[2021-01-10 18:20:29] State Machine: WaitingForProcess (52 ms) > ProcessFound
+[2021-01-10 18:20:30] State Machine: ProcessFound (52 ms) > FastPatternScanning
+[2021-01-10 18:20:30] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-10 18:20:30] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-10 18:20:30] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-10 18:20:30] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-10 18:20:30] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-10 18:20:30] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-10 18:20:30] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-10 18:20:30] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-10 18:20:30] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-10 18:20:30] State Machine: FastPatternScanning (56 ms) > PatternScanning
+[2021-01-10 18:20:30] State Machine: PatternScanning (54 ms) > Working
+[2021-01-10 18:20:30] Match Range: 14024AB49 - 1422455C1
+[2021-01-10 20:07:46] Config.json saved
+[2021-01-10 20:08:24] Config.json saved
+[2021-01-10 20:08:30] Config.json saved
+[2021-01-10 20:14:48] Config.json saved
+[2021-01-10 21:08:17] Config.json saved
+[2021-01-10 22:55:08] Config.json saved
+[2021-01-10 22:56:47] Config.json saved
+[2021-01-10 22:56:50] Config.json saved
+[2021-01-11 04:07:10] State Machine: Working (35200443 ms) > WaitingForProcess
+[2021-01-11 04:07:19] Ended
+[2021-01-11 11:10:10] Started 2021.1.6.0
+[2021-01-11 11:10:10] Config.json loaded
+[2021-01-11 11:10:10] Versions.json loaded
+[2021-01-11 11:10:10] en-US.json loaded
+[2021-01-11 11:10:10] MonsterData.json loaded
+[2021-01-11 11:10:10] PlayerData.json loaded
+[2021-01-11 11:10:10] Memory.json loaded
+[2021-01-11 11:10:10] Default.xaml loaded
+[2021-01-11 11:10:11] State Machine: None (65 ms) > CheckingForUpdates
+[2021-01-11 11:10:11] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-11 11:10:12] State Machine: CheckingForUpdates (574 ms) > StartMHW
+[2021-01-11 11:10:12] State Machine: StartMHW (54 ms) > WaitingForProcess
+[2021-01-11 11:10:12] State Machine: WaitingForProcess (55 ms) > ProcessFound
+[2021-01-11 11:10:12] State Machine: ProcessFound (68 ms) > FastPatternScanning
+[2021-01-11 11:10:12] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-11 11:10:12] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-11 11:10:12] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-11 11:10:12] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-11 11:10:12] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-11 11:10:12] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-11 11:10:12] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-11 11:10:12] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-11 11:10:12] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-11 11:10:12] State Machine: FastPatternScanning (53 ms) > PatternScanning
+[2021-01-11 11:10:12] State Machine: PatternScanning (53 ms) > Working
+[2021-01-11 11:10:12] Match Range: 14024AB49 - 1422455C1
+[2021-01-11 12:51:00] State Machine: Working (6047711 ms) > WaitingForProcess
+[2021-01-11 13:23:46] Started 2021.1.6.0
+[2021-01-11 13:23:46] Config.json loaded
+[2021-01-11 13:23:46] Versions.json loaded
+[2021-01-11 13:23:46] en-US.json loaded
+[2021-01-11 13:23:46] MonsterData.json loaded
+[2021-01-11 13:23:46] PlayerData.json loaded
+[2021-01-11 13:23:46] Memory.json loaded
+[2021-01-11 13:23:46] Default.xaml loaded
+[2021-01-11 13:23:46] State Machine: None (72 ms) > CheckingForUpdates
+[2021-01-11 13:23:46] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-11 13:23:47] State Machine: CheckingForUpdates (996 ms) > StartMHW
+[2021-01-11 13:23:47] State Machine: StartMHW (56 ms) > WaitingForProcess
+[2021-01-11 13:23:48] State Machine: WaitingForProcess (53 ms) > ProcessFound
+[2021-01-11 13:23:48] State Machine: ProcessFound (53 ms) > FastPatternScanning
+[2021-01-11 13:23:48] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-11 13:23:48] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-11 13:23:48] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-11 13:23:48] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-11 13:23:48] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-11 13:23:48] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-11 13:23:48] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-11 13:23:48] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-11 13:23:48] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-11 13:23:48] State Machine: FastPatternScanning (56 ms) > PatternScanning
+[2021-01-11 13:23:48] State Machine: PatternScanning (55 ms) > Working
+[2021-01-11 13:23:48] Match Range: 14024AB49 - 1422455C1
+[2021-01-11 14:16:15] State Machine: Working (3147585 ms) > WaitingForProcess
+[2021-01-11 14:28:04] State Machine: WaitingForProcess (708228 ms) > ProcessFound
+[2021-01-11 14:28:04] State Machine: ProcessFound (54 ms) > FastPatternScanning
+[2021-01-11 14:28:04] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-11 14:28:04] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-11 14:28:04] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-11 14:28:04] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-11 14:28:04] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-11 14:28:04] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-11 14:28:04] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-11 14:28:04] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-11 14:28:04] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-11 14:28:04] State Machine: FastPatternScanning (47 ms) > PatternScanning
+[2021-01-11 14:28:04] State Machine: PatternScanning (52 ms) > Working
+[2021-01-11 14:28:04] Match Range: 14024AB49 - 1422455C1
+[2021-01-11 16:54:51] State Machine: Working (8807555 ms) > WaitingForProcess
+[2021-01-11 16:55:54] Ended
+[2021-01-11 19:30:12] Started 2021.1.6.0
+[2021-01-11 19:30:12] Config.json loaded
+[2021-01-11 19:30:12] Versions.json loaded
+[2021-01-11 19:30:12] en-US.json loaded
+[2021-01-11 19:30:12] MonsterData.json loaded
+[2021-01-11 19:30:12] PlayerData.json loaded
+[2021-01-11 19:30:12] Memory.json loaded
+[2021-01-11 19:30:12] Default.xaml loaded
+[2021-01-11 19:30:13] State Machine: None (64 ms) > CheckingForUpdates
+[2021-01-11 19:30:13] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-11 19:30:14] State Machine: CheckingForUpdates (1685 ms) > StartMHW
+[2021-01-11 19:30:14] State Machine: StartMHW (57 ms) > WaitingForProcess
+[2021-01-11 19:30:14] State Machine: WaitingForProcess (54 ms) > ProcessFound
+[2021-01-11 19:30:14] State Machine: ProcessFound (57 ms) > FastPatternScanning
+[2021-01-11 19:30:14] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-11 19:30:14] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-11 19:30:14] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-11 19:30:14] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-11 19:30:14] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-11 19:30:14] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-11 19:30:14] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-11 19:30:14] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-11 19:30:14] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-11 19:30:15] State Machine: FastPatternScanning (56 ms) > PatternScanning
+[2021-01-11 19:30:15] State Machine: PatternScanning (57 ms) > Working
+[2021-01-11 19:30:15] Match Range: 14024AB49 - 1422455C1
+[2021-01-11 19:34:01] State Machine: Working (226555 ms) > WaitingForProcess
+[2021-01-11 19:34:14] State Machine: WaitingForProcess (12805 ms) > ProcessFound
+[2021-01-11 19:34:14] State Machine: ProcessFound (57 ms) > FastPatternScanning
+[2021-01-11 19:34:14] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-11 19:34:14] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-11 19:34:14] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-11 19:34:14] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-11 19:34:14] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-11 19:34:14] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-11 19:34:14] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-11 19:34:14] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-11 19:34:14] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-11 19:34:14] State Machine: FastPatternScanning (52 ms) > PatternScanning
+[2021-01-11 19:34:14] State Machine: PatternScanning (55 ms) > Working
+[2021-01-11 19:34:14] Match Range: 14024AB49 - 1422455C1
+[2021-01-11 20:30:38] Ended
+[2021-01-11 20:30:53] Started 2021.1.6.0
+[2021-01-11 20:30:53] Config.json loaded
+[2021-01-11 20:30:53] Versions.json loaded
+[2021-01-11 20:30:53] en-US.json loaded
+[2021-01-11 20:30:54] MonsterData.json loaded
+[2021-01-11 20:30:54] PlayerData.json loaded
+[2021-01-11 20:30:54] Memory.json loaded
+[2021-01-11 20:30:54] Default.xaml loaded
+[2021-01-11 20:30:54] State Machine: None (57 ms) > CheckingForUpdates
+[2021-01-11 20:30:54] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-11 20:30:57] State Machine: CheckingForUpdates (3185 ms) > StartMHW
+[2021-01-11 20:30:57] State Machine: StartMHW (56 ms) > WaitingForProcess
+[2021-01-11 20:30:57] State Machine: WaitingForProcess (52 ms) > ProcessFound
+[2021-01-11 20:30:57] State Machine: ProcessFound (55 ms) > FastPatternScanning
+[2021-01-11 20:30:57] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-11 20:30:57] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-11 20:30:57] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-11 20:30:57] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-11 20:30:57] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-11 20:30:57] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-11 20:30:57] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-11 20:30:57] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-11 20:30:57] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-11 20:30:58] State Machine: FastPatternScanning (56 ms) > PatternScanning
+[2021-01-11 20:30:58] State Machine: PatternScanning (57 ms) > Working
+[2021-01-11 20:30:58] Match Range: 14024AB49 - 1422455C1
+[2021-01-11 20:48:41] Localization: 'LOC_4' does not exist in en-US.json
+[2021-01-11 20:48:41] Localization: 'LOC_4' does not exist in en-US.json
+[2021-01-11 20:48:41] Localization: 'LOC_5' does not exist in en-US.json
+[2021-01-11 20:48:41] Localization: 'LOC_5' does not exist in en-US.json
+[2021-01-11 20:48:41] Localization: 'LOC_4' does not exist in en-US.json
+[2021-01-11 20:48:41] Localization: 'LOC_4' does not exist in en-US.json
+[2021-01-11 20:48:41] Localization: 'LOC_5' does not exist in en-US.json
+[2021-01-11 20:48:41] Localization: 'LOC_5' does not exist in en-US.json
+[2021-01-11 21:37:40] Ended
+[2021-01-11 21:37:57] Started 2021.1.6.0
+[2021-01-11 21:37:57] Config.json loaded
+[2021-01-11 21:37:57] Versions.json loaded
+[2021-01-11 21:37:57] en-US.json loaded
+[2021-01-11 21:37:57] MonsterData.json loaded
+[2021-01-11 21:37:57] PlayerData.json loaded
+[2021-01-11 21:37:57] Memory.json loaded
+[2021-01-11 21:37:57] Default.xaml loaded
+[2021-01-11 21:37:58] State Machine: None (61 ms) > CheckingForUpdates
+[2021-01-11 21:37:58] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-11 21:37:59] State Machine: CheckingForUpdates (1355 ms) > StartMHW
+[2021-01-11 21:37:59] State Machine: StartMHW (55 ms) > WaitingForProcess
+[2021-01-11 21:37:59] State Machine: WaitingForProcess (57 ms) > ProcessFound
+[2021-01-11 21:37:59] State Machine: ProcessFound (53 ms) > FastPatternScanning
+[2021-01-11 21:37:59] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-11 21:37:59] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-11 21:37:59] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-11 21:37:59] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-11 21:37:59] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-11 21:37:59] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-11 21:37:59] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-11 21:37:59] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-11 21:37:59] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-11 21:37:59] State Machine: FastPatternScanning (56 ms) > PatternScanning
+[2021-01-11 21:37:59] State Machine: PatternScanning (55 ms) > Working
+[2021-01-11 21:38:00] Match Range: 14024AB49 - 1422455C1
+[2021-01-11 23:20:42] Config.json saved
+[2021-01-12 01:20:54] State Machine: Working (13374631 ms) > WaitingForProcess
+[2021-01-12 01:20:57] Ended
+[2021-01-12 15:00:00] Started 2021.1.6.0
+[2021-01-12 15:00:00] Config.json loaded
+[2021-01-12 15:00:00] Versions.json loaded
+[2021-01-12 15:00:00] en-US.json loaded
+[2021-01-12 15:00:00] MonsterData.json loaded
+[2021-01-12 15:00:00] PlayerData.json loaded
+[2021-01-12 15:00:00] Memory.json loaded
+[2021-01-12 15:00:00] Default.xaml loaded
+[2021-01-12 15:00:01] State Machine: None (71 ms) > CheckingForUpdates
+[2021-01-12 15:00:01] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-12 15:00:03] State Machine: CheckingForUpdates (2636 ms) > StartMHW
+[2021-01-12 15:00:04] Start MHW When SmartHunter Start = false
+[2021-01-12 15:00:04] State Machine: StartMHW (80 ms) > WaitingForProcess
+[2021-01-12 15:05:24] State Machine: WaitingForProcess (320371 ms) > ProcessFound
+[2021-01-12 15:05:24] State Machine: ProcessFound (57 ms) > FastPatternScanning
+[2021-01-12 15:05:24] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-12 15:05:24] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-12 15:05:24] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-12 15:05:24] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-12 15:05:24] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-12 15:05:24] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-12 15:05:24] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-12 15:05:24] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-12 15:05:24] State Machine: FastPatternScanning (68 ms) > PatternScanning
+[2021-01-12 15:05:24] State Machine: PatternScanning (54 ms) > Working
+[2021-01-12 15:05:24] Match Range: 14024AB49 - 1422455C1
+[2021-01-12 19:52:20] State Machine: Working (17215972 ms) > WaitingForProcess
+[2021-01-12 19:54:01] Ended
+[2021-01-13 10:07:20] Started 2021.1.6.0
+[2021-01-13 10:07:20] Config.json loaded
+[2021-01-13 10:07:20] Versions.json loaded
+[2021-01-13 10:07:20] en-US.json loaded
+[2021-01-13 10:07:21] MonsterData.json loaded
+[2021-01-13 10:07:21] PlayerData.json loaded
+[2021-01-13 10:07:21] Memory.json loaded
+[2021-01-13 10:07:21] Default.xaml loaded
+[2021-01-13 10:07:21] State Machine: None (59 ms) > CheckingForUpdates
+[2021-01-13 10:07:21] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-13 10:07:22] State Machine: CheckingForUpdates (1113 ms) > StartMHW
+[2021-01-13 10:07:22] State Machine: StartMHW (63 ms) > WaitingForProcess
+[2021-01-13 10:07:22] State Machine: WaitingForProcess (57 ms) > ProcessFound
+[2021-01-13 10:07:22] State Machine: ProcessFound (53 ms) > FastPatternScanning
+[2021-01-13 10:07:23] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-13 10:07:23] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-13 10:07:23] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-13 10:07:23] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-13 10:07:23] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-13 10:07:23] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-13 10:07:23] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-13 10:07:23] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-13 10:07:23] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-13 10:07:23] State Machine: FastPatternScanning (58 ms) > PatternScanning
+[2021-01-13 10:07:23] State Machine: PatternScanning (54 ms) > Working
+[2021-01-13 10:07:23] Match Range: 14024AB49 - 1422455C1
+[2021-01-13 10:19:47] Config.json saved
+[2021-01-13 10:19:54] Config.json saved
+[2021-01-13 10:20:02] Config.json saved
+[2021-01-13 10:20:43] Config.json saved
+[2021-01-13 10:20:55] Config.json saved
+[2021-01-13 10:41:38] Ended
+[2021-01-14 11:46:45] Started 2021.1.6.0
+[2021-01-14 11:46:45] Config.json loaded
+[2021-01-14 11:46:45] Versions.json loaded
+[2021-01-14 11:46:45] en-US.json loaded
+[2021-01-14 11:46:46] MonsterData.json loaded
+[2021-01-14 11:46:46] PlayerData.json loaded
+[2021-01-14 11:46:46] Memory.json loaded
+[2021-01-14 11:46:46] Default.xaml loaded
+[2021-01-14 11:46:46] State Machine: None (63 ms) > CheckingForUpdates
+[2021-01-14 11:46:46] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-14 11:46:51] State Machine: CheckingForUpdates (4975 ms) > StartMHW
+[2021-01-14 11:46:52] State Machine: StartMHW (61 ms) > WaitingForProcess
+[2021-01-14 11:46:52] State Machine: WaitingForProcess (65 ms) > ProcessFound
+[2021-01-14 11:46:52] State Machine: ProcessFound (53 ms) > FastPatternScanning
+[2021-01-14 11:46:52] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-14 11:46:52] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-14 11:46:52] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-14 11:46:52] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-14 11:46:52] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-14 11:46:52] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-14 11:46:52] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-14 11:46:52] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-14 11:46:52] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-14 11:46:52] State Machine: FastPatternScanning (72 ms) > PatternScanning
+[2021-01-14 11:46:52] State Machine: PatternScanning (51 ms) > Working
+[2021-01-14 11:46:52] Match Range: 14024AB49 - 1422455C1
+[2021-01-14 12:04:11] Ended
+[2021-01-14 12:58:20] Started 2021.1.6.0
+[2021-01-14 12:58:20] Config.json loaded
+[2021-01-14 12:58:20] Versions.json loaded
+[2021-01-14 12:58:20] en-US.json loaded
+[2021-01-14 12:58:21] MonsterData.json loaded
+[2021-01-14 12:58:21] PlayerData.json loaded
+[2021-01-14 12:58:21] Memory.json loaded
+[2021-01-14 12:58:21] Default.xaml loaded
+[2021-01-14 12:58:22] State Machine: None (62 ms) > CheckingForUpdates
+[2021-01-14 12:58:22] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-14 12:58:24] State Machine: CheckingForUpdates (2021 ms) > StartMHW
+[2021-01-14 12:58:24] State Machine: StartMHW (58 ms) > WaitingForProcess
+[2021-01-14 12:58:24] State Machine: WaitingForProcess (66 ms) > ProcessFound
+[2021-01-14 12:58:24] State Machine: ProcessFound (51 ms) > FastPatternScanning
+[2021-01-14 12:58:24] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-14 12:58:24] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-14 12:58:24] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-14 12:58:24] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-14 12:58:24] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-14 12:58:24] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-14 12:58:24] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-14 12:58:24] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-14 12:58:24] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-14 12:58:24] State Machine: FastPatternScanning (124 ms) > PatternScanning
+[2021-01-14 12:58:24] State Machine: PatternScanning (54 ms) > Working
+[2021-01-14 12:58:24] Match Range: 14024AB49 - 1422455C1
+[2021-01-14 14:04:10] State Machine: Working (3946112 ms) > WaitingForProcess
+[2021-01-14 14:09:28] State Machine: WaitingForProcess (317885 ms) > ProcessFound
+[2021-01-14 14:09:28] State Machine: ProcessFound (53 ms) > FastPatternScanning
+[2021-01-14 14:09:28] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-14 14:09:28] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-14 14:09:28] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-14 14:09:28] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-14 14:09:28] State Machine: FastPatternScanning (52 ms) > PatternScanning
+[2021-01-14 14:09:28] State Machine: PatternScanning (52 ms) > Working
+[2021-01-14 14:09:28] Match Range: 14024AB49 - 1422455C1
+[2021-01-14 16:57:58] State Machine: Working (10110289 ms) > WaitingForProcess
+[2021-01-14 17:05:07] Ended
+[2021-01-14 17:36:06] Started 2021.1.6.0
+[2021-01-14 17:36:07] Config.json loaded
+[2021-01-14 17:36:07] Versions.json loaded
+[2021-01-14 17:36:07] en-US.json loaded
+[2021-01-14 17:36:07] MonsterData.json loaded
+[2021-01-14 17:36:07] PlayerData.json loaded
+[2021-01-14 17:36:07] Memory.json loaded
+[2021-01-14 17:36:07] Default.xaml loaded
+[2021-01-14 17:36:07] State Machine: None (55 ms) > CheckingForUpdates
+[2021-01-14 17:36:07] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-14 17:36:08] State Machine: CheckingForUpdates (1033 ms) > StartMHW
+[2021-01-14 17:36:08] State Machine: StartMHW (55 ms) > WaitingForProcess
+[2021-01-14 17:36:08] State Machine: WaitingForProcess (56 ms) > ProcessFound
+[2021-01-14 17:36:08] State Machine: ProcessFound (55 ms) > FastPatternScanning
+[2021-01-14 17:36:08] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-14 17:36:08] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-14 17:36:08] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-14 17:36:08] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-14 17:36:08] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-14 17:36:08] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-14 17:36:08] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-14 17:36:08] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-14 17:36:08] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-14 17:36:08] State Machine: FastPatternScanning (57 ms) > PatternScanning
+[2021-01-14 17:36:09] State Machine: PatternScanning (55 ms) > Working
+[2021-01-14 17:36:09] Match Range: 14024AB49 - 1422455C1
+[2021-01-14 21:18:57] Ended
+[2021-01-14 21:32:09] Started 2021.1.6.0
+[2021-01-14 21:32:09] Config.json loaded
+[2021-01-14 21:32:09] Versions.json loaded
+[2021-01-14 21:32:09] en-US.json loaded
+[2021-01-14 21:32:09] MonsterData.json loaded
+[2021-01-14 21:32:09] PlayerData.json loaded
+[2021-01-14 21:32:09] Memory.json loaded
+[2021-01-14 21:32:10] Default.xaml loaded
+[2021-01-14 21:32:10] State Machine: None (61 ms) > CheckingForUpdates
+[2021-01-14 21:32:10] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-14 21:32:12] State Machine: CheckingForUpdates (1954 ms) > StartMHW
+[2021-01-14 21:32:12] State Machine: StartMHW (69 ms) > WaitingForProcess
+[2021-01-14 21:32:12] State Machine: WaitingForProcess (52 ms) > ProcessFound
+[2021-01-14 21:32:12] State Machine: ProcessFound (65 ms) > FastPatternScanning
+[2021-01-14 21:32:12] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-14 21:32:12] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-14 21:32:12] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-14 21:32:12] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-14 21:32:12] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-14 21:32:12] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-14 21:32:12] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-14 21:32:12] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-14 21:32:12] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-14 21:32:12] State Machine: FastPatternScanning (61 ms) > PatternScanning
+[2021-01-14 21:32:12] State Machine: PatternScanning (52 ms) > Working
+[2021-01-14 21:32:12] Match Range: 14024AB49 - 1422455C1
+[2021-01-14 21:32:49] Config.json saved
+[2021-01-14 22:02:04] Ended
+[2021-01-14 22:02:05] Started 2021.1.6.0
+[2021-01-14 22:02:05] Config.json loaded
+[2021-01-14 22:02:05] Versions.json loaded
+[2021-01-14 22:02:05] en-US.json loaded
+[2021-01-14 22:02:05] MonsterData.json loaded
+[2021-01-14 22:02:05] PlayerData.json loaded
+[2021-01-14 22:02:05] Memory.json loaded
+[2021-01-14 22:02:05] Default.xaml loaded
+[2021-01-14 22:02:06] State Machine: None (68 ms) > CheckingForUpdates
+[2021-01-14 22:02:06] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-14 22:02:08] State Machine: CheckingForUpdates (2115 ms) > StartMHW
+[2021-01-14 22:02:08] State Machine: StartMHW (66 ms) > WaitingForProcess
+[2021-01-14 22:02:08] State Machine: WaitingForProcess (54 ms) > ProcessFound
+[2021-01-14 22:02:08] State Machine: ProcessFound (54 ms) > FastPatternScanning
+[2021-01-14 22:02:08] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-14 22:02:08] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-14 22:02:08] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-14 22:02:08] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-14 22:02:08] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-14 22:02:08] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-14 22:02:08] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-14 22:02:08] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-14 22:02:08] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-14 22:02:08] State Machine: FastPatternScanning (56 ms) > PatternScanning
+[2021-01-14 22:02:08] State Machine: PatternScanning (53 ms) > Working
+[2021-01-14 22:02:08] Match Range: 14024AB49 - 1422455C1
+[2021-01-15 02:38:08] Localization: Monster 'em126_00' soften partid '8' not found in MonsterData.json
+[2021-01-15 02:38:08] Localization: Monster 'em126_00' soften partid '8' not found in MonsterData.json
+[2021-01-15 02:38:08] Localization: Monster 'em126_00' soften partid '8' not found in MonsterData.json
+[2021-01-15 02:38:08] Localization: Monster 'em126_00' soften partid '8' not found in MonsterData.json
+[2021-01-15 03:19:32] Ended
+[2021-01-15 15:11:25] Started 2021.1.6.0
+[2021-01-15 15:11:26] Config.json loaded
+[2021-01-15 15:11:26] Versions.json loaded
+[2021-01-15 15:11:26] en-US.json loaded
+[2021-01-15 15:11:26] MonsterData.json loaded
+[2021-01-15 15:11:26] PlayerData.json loaded
+[2021-01-15 15:11:26] Memory.json loaded
+[2021-01-15 15:11:26] Default.xaml loaded
+[2021-01-15 15:11:27] State Machine: None (62 ms) > CheckingForUpdates
+[2021-01-15 15:11:27] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-15 15:11:29] State Machine: CheckingForUpdates (2060 ms) > StartMHW
+[2021-01-15 15:11:29] State Machine: StartMHW (70 ms) > WaitingForProcess
+[2021-01-15 15:11:29] State Machine: WaitingForProcess (63 ms) > ProcessFound
+[2021-01-15 15:11:29] State Machine: ProcessFound (54 ms) > FastPatternScanning
+[2021-01-15 15:11:29] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-15 15:11:29] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-15 15:11:30] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-15 15:11:30] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-15 15:11:29] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-15 15:11:30] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-15 15:11:29] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-15 15:11:29] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-15 15:11:29] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-15 15:11:30] State Machine: FastPatternScanning (131 ms) > PatternScanning
+[2021-01-15 15:11:30] State Machine: PatternScanning (60 ms) > Working
+[2021-01-15 15:11:30] Match Range: 14024AB49 - 1422455C1
+[2021-01-15 15:57:31] Started 2021.1.6.0
+[2021-01-15 15:57:32] Config.json loaded
+[2021-01-15 15:57:32] Versions.json loaded
+[2021-01-15 15:57:32] en-US.json loaded
+[2021-01-15 15:57:32] MonsterData.json loaded
+[2021-01-15 15:57:32] PlayerData.json loaded
+[2021-01-15 15:57:32] Memory.json loaded
+[2021-01-15 15:57:32] Default.xaml loaded
+[2021-01-15 15:57:33] State Machine: None (74 ms) > CheckingForUpdates
+[2021-01-15 15:57:33] Searching for updates (You can disable this feature in file 'Config.json')!
+[2021-01-15 15:57:36] State Machine: CheckingForUpdates (2710 ms) > StartMHW
+[2021-01-15 15:57:36] State Machine: StartMHW (57 ms) > WaitingForProcess
+[2021-01-15 15:57:36] State Machine: WaitingForProcess (54 ms) > ProcessFound
+[2021-01-15 15:57:36] State Machine: ProcessFound (49 ms) > FastPatternScanning
+[2021-01-15 15:57:36] Found 'PlayerNamePattern' at address 0x140625CD7
+[2021-01-15 15:57:36] Found 'LobbyStatusPattern' at address 0x1402CA714
+[2021-01-15 15:57:36] Found 'PlayerBuffPattern' at address 0x1422455C1
+[2021-01-15 15:57:36] Found 'SelectedMonsterPattern' at address 0x141A98292
+[2021-01-15 15:57:36] Found 'DamageOnScreenPattern' at address 0x14049F00B
+[2021-01-15 15:57:36] Found 'CurrentPlayerNamePattern' at address 0x1402B4DF9
+[2021-01-15 15:57:36] Found 'CurrentWeaponPattern' at address 0x1411A5DD6
+[2021-01-15 15:57:36] Found 'MonsterPattern' at address 0x14024AB49
+[2021-01-15 15:57:36] Found 'PlayerDamagePattern' at address 0x141A5EF27
+[2021-01-15 15:57:36] State Machine: FastPatternScanning (121 ms) > PatternScanning
+[2021-01-15 15:57:36] State Machine: PatternScanning (52 ms) > Working
+[2021-01-15 15:57:36] Match Range: 14024AB49 - 1422455C1
